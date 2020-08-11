@@ -1,0 +1,31 @@
+.container {
+
+    &__footer {
+        position: fixed;
+        bottom: 0;
+        margin-top: 100px;
+        display: flex;
+        justify-content: flex-end;
+        padding-right: 50px;
+        width: 100vw;
+
+        .footer {
+            &__link {
+                display: inline-block;
+                width: 50px;
+                height: 50px;
+                margin: 12px;
+                background-size: contain;
+                background-repeat: no-repeat;
+
+                &-twitter {
+                    background-image: url("/assets/images/twitter-logo.png");
+                }
+
+                &-linkedin {
+                    background-image: url("/assets/images/linkedin-logo.png");
+                }
+            }
+        }
+    }
+}
