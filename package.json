@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shashankduhan/hydroclimx-website.git"
+    "url": "git+https://github.com/shashankduhan/Webpack-React-Boilerplate.git"
   },
   "author": "Shasahank Duhan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shashankduhan/hydroclimx-website/issues"
+    "url": "https://github.com/shashankduhan/Webpack-React-Boilerplate/issues"
   },
-  "homepage": "https://github.com/shashankduhan/hydroclimx-website#readme",
+  "homepage": "https://github.com/shashankduhan/Webpack-React-Boilerplate#readme",
   "dependencies": {
     "@material-ui/core": "^4.10.0",
     "@material-ui/icons": "^4.9.1",
