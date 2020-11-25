@@ -13,7 +13,7 @@ A simple startup project for a react application using webpack
   And vola! this is it.
 
 
-  ## Step for final buils
+  ## Step for final builds
 
   Run: ` npm run build `
 
